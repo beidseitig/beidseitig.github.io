@@ -1,2 +1,2 @@
 # beidseitig.github.io
-Meus projetos e atividades
+Projetos e atividadess desenvolvidas ao longo da minha jornada como Dev.
