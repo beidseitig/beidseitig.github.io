@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.color {
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+
+.pixel {
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    padding: 0;
+    background-color: white;
+}
+
+#pixel-board {
+    margin: 25px 0px;
+    font-size: 0;
+}
